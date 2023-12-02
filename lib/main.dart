@@ -97,6 +97,9 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Git Added',
             ),
+            const Text(
+              'Git Added 2',
+            ),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
